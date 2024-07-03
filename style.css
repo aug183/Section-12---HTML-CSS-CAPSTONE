@@ -1,0 +1,48 @@
+/* 
+#222831
+#393E46
+#00ADB5
+#EEEEEE
+https://colorhunt.co/palette/222831393e4600adb5eeeeee
+*/
+
+body {
+  background: #222831;
+}
+
+div > p {
+  color: #eeeeee;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.hero-container {
+  border-color: #393e46;
+  border-style: solid;
+  border-width: 3px;
+}
+
+.heading {
+  color: #00adb5;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  height: 200px;
+}
+
+div > h2 {
+  font-size: 3rem;
+}
+
+.icon-square {
+  height: 3.5rem;
+  width: 3.5rem;
+  border-radius: 0.75rem;
+  background: #393e46;
+}
