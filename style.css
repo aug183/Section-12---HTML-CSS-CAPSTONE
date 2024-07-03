@@ -46,3 +46,25 @@ div > h2 {
   border-radius: 0.75rem;
   background: #393e46;
 }
+
+.btn {
+  background-color: #00adb5;
+  border: none;
+  color: #eeeeee;
+}
+.btn:hover {
+  background-color: #008a91;
+  color: #eeeeee;
+}
+
+.project-heading {
+  text-align: center;
+}
+
+.footer-text {
+  color: #eeeeee;
+}
+
+.nav-link:hover {
+  color: #00adb5;
+}
